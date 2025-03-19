@@ -1705,7 +1705,7 @@ void visTurquesa(){
 
 
 void prognumter(){
-int conta=0;   //dummy para git sin uso
+
 Serial.println("Programando numter: ");
   if (beingprog){
     for (int i=1;i<8;i++){
